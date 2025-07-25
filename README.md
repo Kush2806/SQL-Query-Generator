@@ -1,6 +1,6 @@
 ---
 
-# AI SQL Query Generator
+# AI SQL Query Generator | Chat with Database
 
 This repository provides an AI-powered tool for generating SQL queries from natural language questions, with a focus on schema-aware, context-restricted query generation. It leverages large language models (LLMs) and provides both a web interface (via Streamlit) and supporting scripts for experimentation and database interaction.
 
