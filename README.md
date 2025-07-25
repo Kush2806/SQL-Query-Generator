@@ -1,13 +1,3 @@
-Read file: app.py
-Read file: bonus.py
-Read file: try2.py
-Read file: try.ipynb
-Ran tool
-Ran tool
-Ran tool
-Read file: README.md
-Here is a detailed README for your SQL-Query-Generator repository, based on the analysis of all code and data files in your provided context.
-
 ---
 
 # AI SQL Query Generator
@@ -29,8 +19,6 @@ This repository provides an AI-powered tool for generating SQL queries from natu
 - [Model & Tokenizer](#model--tokenizer)
 - [Data Files](#data-files)
 - [Notes & Limitations](#notes--limitations)
-- [License](#license)
-
 ---
 
 ## Features
@@ -157,13 +145,6 @@ python try2.py
 - **Local LLM**: The system expects a local LLM server (e.g., via Ollama) running the Gemma model.
 - **Database Safety**: The bonus script executes generated SQL on the database. Use with caution and only on test databases.
 - **Model Files**: Model and tokenizer files are large and not included in the repo. Place your own compatible files in `model_directory2/`.
-
----
-
-## License
-
-[MIT License](LICENSE) (or specify your license here)
-
 ---
 
 ## Acknowledgements
